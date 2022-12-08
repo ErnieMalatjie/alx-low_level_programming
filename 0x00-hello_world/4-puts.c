@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+./betty-style.pl src/*.c include/*.h
+		    
 /**
  *  main - Entry Point 
  *
