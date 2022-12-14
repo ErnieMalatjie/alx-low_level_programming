@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - value of an integer.
+ * main - abs, value of an integer.
  *
  * Return: Value of the integer.
  */
